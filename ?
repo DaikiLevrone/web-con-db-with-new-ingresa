@@ -1,0 +1,7 @@
+echo "# web-con-db-with-new-ingresa" >> README.md 
+git init 
+git add README.md 
+git commit -m "primer compromiso" 
+git rama -M principal 
+git remoto agregar origen https://github. com/DaikiLevrone/web-con-db-with-new-ingresa.git
+ git push -u origen principal
